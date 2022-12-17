@@ -2,7 +2,6 @@ Lyra License
 ============
 
 Copyright © 2023 Daniel Zulla <dan@lyralang.org><br />
-Copyright © 2023 Kenneth Gabriel <keo@lyralang.org><br />
 Copyright © 2023 Mescalin Semiconductor Ltd. Some rights reserved.<br />
 
 Redistribution and ethical use in source and binary forms, with or without
