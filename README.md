@@ -7,7 +7,11 @@ with the [Mescalin Semiconductor](https://mescalin.co) Private Limited Corporati
 
 Terms
 =====
-* updating
+* Redistribution and Use for Private, Research or Business matters
+* Free of Charge
+* The License forbids to aid Human -& Animal Experiments under all circumstances
+* Business Ethics and Morality of use are a requirement for Redistribution and Use
+* Certification of your project by [Mescalin Semiconductor](https://mescalin.co) is an option.
 
 Contributors
 ============
